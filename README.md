@@ -47,7 +47,9 @@ I already have many programs developed for various Social media apps. Here are s
 **Disclaimer**
 Telegram Group Post Bot is for educational and entertainment purposes only.
 
-**Usage Guidelines**
+Usage Guidelines
+
 - Ethical Use: Use this tool responsibly. Do not mislead or deceive others.
 - Compliance: Follow Telegram’s terms of service and community guidelines while using this tool.
+
 By using this tool, you agree to these terms.
