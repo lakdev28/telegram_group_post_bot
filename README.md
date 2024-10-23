@@ -5,7 +5,7 @@
 This is a telegram bot that can be used to send scheduled messages (with or without media) to telegram groups.
 
 **Features:**
-- Add to groups (more than one)
+- Add to groups (no limit)
 - Add messages with or without media
 - Add multiple messages
 - Set intervals for sending messages
