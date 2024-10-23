@@ -2,7 +2,7 @@
 
 **Telegram Message Forwarder**
 
-This is telegram bot that can be used to send scheduled messages (with or without media) to telegram groups.
+This is a telegram bot that can be used to send scheduled messages (with or without media) to telegram groups.
 
 **Features:**
 - Add to groups
