@@ -1,6 +1,6 @@
 <img src='/screenshot.png'>
 
-**Telegram Message Forwarder**
+**Telegram Group Post Bot**
 
 This is a telegram bot that can be used to send scheduled messages (with or without media) to telegram groups.
 
@@ -10,7 +10,7 @@ This is a telegram bot that can be used to send scheduled messages (with or with
 - Add multiple messages
 - Set intervals for sending messages
 - Run 24x7
-- This can be used on a hosted server or on a pc
+- This can be used on a hosted server or a pc
 
 **Buy:**
 Please contact me to buy this program. This program is only $25, and If you need I'll provide a guide to use the application.
@@ -28,7 +28,7 @@ If you need any kind of Telegram bot or Program Developed Please contact me. I c
 - Web Development with Flask/HTML/Bootstrap
 
 **Other Programs:**
-I already have many programs that developed for Telegram and Discord, here are some of them. If you interested in any of them please DM me.
+I already have many programs developed for various Social media apps. Here are some of them. If you are interested in any of them, please DM me.
 - Discord DM Send on Join
 - Discord Join Notifier
 - Daily English Word Dictionary Telegram Bot
@@ -43,3 +43,11 @@ I already have many programs that developed for Telegram and Discord, here are s
 - TikTok Downloader
 - Telegram Conversation Maker
 - Telegram Message Forwarder Application
+
+**Disclaimer**
+Telegram Group Post Bot is for educational and entertainment purposes only.
+
+**Usage Guidelines**
+- Ethical Use: Use this tool responsibly. Do not mislead or deceive others.
+- Compliance: Follow Telegram’s terms of service and community guidelines while using this tool.
+By using this tool, you agree to these terms.
