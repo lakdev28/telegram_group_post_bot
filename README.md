@@ -44,7 +44,7 @@ I already have many programs developed for various Social media apps. Here are s
 - Telegram Conversation Maker
 - Telegram Message Forwarder Application
 
-**Disclaimer**
+**Disclaimer:**
 Telegram Group Post Bot is for educational and entertainment purposes only.
 
 Usage Guidelines
