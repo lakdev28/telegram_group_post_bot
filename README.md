@@ -1,4 +1,4 @@
-<img src='/screenshot.png'>
+<img src='/TelegramGroupPostBot.png'>
 
 # Telegram Group Post Bot
 
